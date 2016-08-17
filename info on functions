@@ -1,0 +1,7 @@
+function
+
+function myAwesomeFunction (parameter1,paramter2);{
+    console.log('harro')
+}
+
+console.log(` ${ } ${ }`  )
